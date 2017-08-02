@@ -13,4 +13,3 @@ defmodule VendingMachine.GenServer.X2Test do
   end
 
 end
-
